@@ -1,0 +1,4 @@
+#Tue Jan 29 17:49:29 IST 2019
+base.0=/Users/jatin/Me/Development/projects/qr_code_scanner/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
