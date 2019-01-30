@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:qr_flutter/qr_flutter.dart';
+import 'package:esys_flutter_share/esys_flutter_share.dart';
 
 class Generator extends StatelessWidget {
   @override
